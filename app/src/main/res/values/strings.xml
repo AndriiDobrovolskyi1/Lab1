@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab_1</string>
+    <string name="hello_animal">Hello My Animal App</string>
+    <string name="button_name">Details</string>
+    <string name="Text"></string>
+    <string name="First_animal">Cat</string>
+    <string name="Second_animal">Dog</string>
+    <string name="Third_animal">Humster</string>
+    <string name="First_animal_description">cat meows</string>
+    <string name="Second_animal_description">dog barks</string>
+    <string name="Third_animal_description">humster runs</string>
+</resources>
